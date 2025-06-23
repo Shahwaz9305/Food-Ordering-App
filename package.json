@@ -1,0 +1,34 @@
+{
+  "name": "food-ordering-app",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000F\u0000o\u0000o\u0000d\u0000-\u0000O\u0000r\u0000d\u0000e\u0000r\u0000i\u0000n\u0000g\u0000-\u0000A\u0000p\u0000p\u0000\r\u0000 \u0000#\u0000 \u0000n\u0000p\u0000m\u0000 \u0000i\u0000n\u0000i\u0000t\u0000 \u0000\r\u0000 \u0000 \u0000 \u0000 \u0000 \u0000s\u0000e\u0000t\u0000 \u0000t\u0000e\u0000s\u0000t\u0000 \u0000c\u0000o\u0000m\u0000m\u0000a\u0000n\u0000d\u0000 \u0000:\u0000 \u0000j\u0000e\u0000s\u0000t\u0000\r\u0000 \u0000 \u0000 \u0000 \u0000 \u0000\r\u0000 \u0000",
+  
+  "scripts": {
+    "test": "jest",
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shahwaz9305/Food-Ordering-App.git"
+  },
+  "keywords": [
+    "food",
+    "ordering",
+    "app",
+    "react",
+    "project"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shahwaz9305/Food-Ordering-App/issues"
+  },
+  "homepage": "https://github.com/Shahwaz9305/Food-Ordering-App#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
