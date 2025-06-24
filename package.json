@@ -5,7 +5,8 @@
   
   "scripts": {
     "test": "jest",
-    "start": ""
+    "start": "parcel index.html",
+    "build":"parcel build index.html"
   },
   "repository": {
     "type": "git",
